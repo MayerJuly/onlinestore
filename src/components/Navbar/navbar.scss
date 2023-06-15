@@ -1,0 +1,14 @@
+.chakra-popover__popper * {
+  margin: 0 !important;
+}
+.logoutIcon {
+  display: none !important;
+  cursor: pointer;
+}
+
+@media(max-width: 767px)
+{
+  .logoutIcon {
+    display: block !important;
+  }
+}

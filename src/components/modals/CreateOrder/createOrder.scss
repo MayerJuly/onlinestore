@@ -1,0 +1,16 @@
+.phoneInput {
+  outline: 2px solid transparent;
+  transition: .2s;
+  border: 1px solid #E2E8F0;
+  height: 2.5rem;
+  width: 100%;
+  max-width: 100%;
+  border-radius: .375rem;
+  padding: 0 16px;
+
+  &:focus {
+    z-index: 1;
+    border-color: #3182ce;
+    box-shadow: 0 0 0 1px #3182ce;
+  }
+}

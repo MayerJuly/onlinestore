@@ -1,0 +1,15 @@
+.errorText {
+  visibility: hidden;
+  opacity:0;
+  transition: .4s;
+  position: absolute;
+  width: 100%;
+  top: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  &.active {
+    visibility: visible;
+    opacity:1;
+  }
+}
