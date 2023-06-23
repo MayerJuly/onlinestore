@@ -1,5 +1,7 @@
 # Online store client
 Client side of the Online store
+
+Written with React, Typescript, Mobx, ChakraUI
 ## Available Scripts
 
 In the project directory, you can run:
