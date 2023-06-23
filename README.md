@@ -1,5 +1,5 @@
 # Online store client
-
+Client side of the Online store
 ## Available Scripts
 
 In the project directory, you can run:
